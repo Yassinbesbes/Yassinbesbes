@@ -8,11 +8,11 @@ For designers, developers, startups, and agencies.
 Have any feedback, requests, or questions? Get in touch:
 
 
- [LinkedIn](https://www.linkedin.com/in/yassinbesbes/) 
+ [LinkedIn](https://www.linkedin.com/in/yassinbesbes/)yassinbesbes
 
 
  
- [email:](besbesyassin90@gmail.com) 
+ [email:]()besbesyassin90@gmail.com
 
 
  
