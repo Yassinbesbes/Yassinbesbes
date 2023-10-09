@@ -8,7 +8,7 @@ For designers, developers, startups, and agencies.
 Have any feedback, requests, or questions? Get in touch:
 
 
- [LinkedIn: ](https://www.linkedin.com/in/yassinbesbes/)yassinbesbes
+ [LinkedIn: ](https://www.linkedin.com/in/yassinbesbes/)(yassinbesbes)
 
 
  
