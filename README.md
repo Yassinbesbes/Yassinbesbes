@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yassin Besbes, a Web Development student who excels in programming and React. Proficient in Agile methodology, I worked on a project that involved UI design and development. I'm eager to continue my web development journey, contribute to impactful projects, and stay updated with industry trends.
+I'm Yassin Besbes, a Web Development student Alongside my studies, I'm involved in developing and maintaining web applications, I worked on a project that involved design and development. I'm eager to continue my web development journey, contribute to impactful projects, and stay updated with industry trends.
 
 
 
