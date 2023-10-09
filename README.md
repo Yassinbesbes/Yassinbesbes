@@ -7,9 +7,7 @@ Contact :
 For designers, developers, startups, and agencies.
 Have any feedback, requests, or questions? Get in touch: 
 
-    #[LinkedIn:](https://www.linkedin.com/in/yassinbesbes/) yassinbesbes
-    Email: besbesyassin90@gmail.com
-    #[Figma_design:](https://www.figma.com/@yassin_besbes) design
+    #[LinkedIn:](https://www.linkedin.com/in/yassinbesbes/) 
 
 
 
