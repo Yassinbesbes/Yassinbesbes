@@ -1,3 +1,15 @@
 ### Hi there 👋
 
-Hi, I'm Yassin Besbes, a dedicated Web Development student with a passion for building engaging and user-friendly websites. Alongside my studies, I'm involved in developing and maintaining web applications for various clients. My technical skills at programming, as well as experience working with popular frameworks like React . I also have experience in Agile methodology. Recently, I worked on a project that included designing and developing the user interface, and implementing user authentication and authorization. In addition to my work, I'm an active member of the Web Development Club and enjoy participating in coding challenges. I'm also passionate about contributing to various projects on GitHub. After graduation, I'm looking forward to continuing my career as a web developer and contributing to meaningful projects that make a positive impact. I'm always eager to learn new skills and stay up-to-date with the latest trends in web development. 
+I'm Yassin Besbes, a Web Development student who excels in programming and React. Proficient in Agile methodology, I worked on a project that involved UI design and development. I'm eager to continue my web development journey, contribute to impactful projects, and stay updated with industry trends.
+
+Contact :
+
+For designers, developers, startups, and agencies.
+Have any feedback, requests, or questions? Get in touch: 
+
+    [LinkedIn:](https://www.linkedin.com/in/yassinbesbes/) yassinbesbes
+    Email: besbesyassin90@gmail.com
+    [Figma design:](https://www.figma.com/@yassin_besbes) design
+
+
+Thanks for visiting my profile.
