@@ -8,7 +8,7 @@ For designers, developers, startups, and agencies.
 Have any feedback, requests, or questions? Get in touch:
 
 
- LinkedIn:[yassinbesbes](https://www.linkedin.com/in/yassinbesbes/)
+ [LinkedIn:yassinbesbes](https://www.linkedin.com/in/yassinbesbes/)
 
 
  
@@ -16,7 +16,7 @@ Have any feedback, requests, or questions? Get in touch:
 
 
  
- Figma: [@yassin_besbes]( https://www.figma.com/@yassin_besbes) 
+ [Figma: @yassin_besbes]( https://www.figma.com/@yassin_besbes) 
 
  
  
