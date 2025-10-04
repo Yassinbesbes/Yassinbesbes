@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Yassin, a Development student Alongside my studies, I'm involved in developing and maintaining web applications, I worked on a project that involved design and development. I'm eager to continue my development journey, contribute to impactful projects, and stay updated with industry trends.
-
+I'm Yassin, a developer and technology student, always learning, building, and looking for projects where I can make a real impact.
 
 
 For designers, developers, startups, and agencies.
