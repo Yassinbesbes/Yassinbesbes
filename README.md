@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm Yassin, a developer and technology student, always learning, building, and looking for projects where I can make a real impact.
-
+I'm Yassine, a Software Developer passionate about continuous learning, building innovative solutions, and contributing to projects that create meaningful impact.
 
 For designers, developers, startups, and agencies.
 Have any feedback, requests, or questions? Get in touch:
 
 
- ▪️LinkedIn:[yassinbesbes](https://www.linkedin.com/in/yassinbesbes/)
+ ▪️LinkedIn:[yassinebesbes](https://www.linkedin.com/in/yassinbesbes/)
 
 
  
@@ -15,7 +14,7 @@ Have any feedback, requests, or questions? Get in touch:
 
 
  
- ▪️Figma: [ @yassin_besbes]( https://www.figma.com/@yassin_besbes) 
+ ▪️Figma: [ @yassine_besbes]( https://www.figma.com/@yassine_besbes) 
 
  
  
